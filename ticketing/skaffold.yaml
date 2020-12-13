@@ -7,6 +7,8 @@ deploy:
 build:
   local:
     push: false
+  # googleCloudBuild:
+  #   projectId: ticketing-dev-298509
   artifacts:
     - image: yonatangross/auth
       context: auth

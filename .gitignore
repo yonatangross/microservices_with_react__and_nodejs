@@ -105,3 +105,5 @@ maps-ts/.cache/
 maps-ts/.cache/7d/4b46c2ef30eadcf71e5b10735f9e2b.json
 maps-ts/.cache/c1/840236275d56d40841c3893e34e7a4.json
 maps-ts/.cache/e3/2b87eaf4d923710bd501ce418bb098.json
+ticketing/infra/k8s/auth-depl.yaml.cloud
+ticketing/skaffold.yaml.cloud
